@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-nav .nav-item .img-fluid {
+    height: 20px;
+}
+
+.navbar-brand img {
+    height: 32px;
+}
